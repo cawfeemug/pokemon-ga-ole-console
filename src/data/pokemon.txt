@@ -1,0 +1,42 @@
+1, Bulbasaur, 1, Grass, Vine Whip, 55, 28, true, 28, 36, 26
+2, Ivysaur, 2, Grass, Razor Leaf, 76, 42, true, 42, 53, 41
+3, Venusaur, 3, Grass, Giga Drain, 103, 77, false, 64, 77, 62
+4, Charmander, 1, Fire, Ember, 52, 33, false, 25, 29, 36
+5, Charmeleon, 2, Fire, Fire Fang, 74, 43, true, 39, 44, 53
+6, Charizard, 3, Fire, Flame Burst, 102, 83, false, 61, 66, 77
+7, Squirtle, 1, Water, Water Gun, 55, 29, false, 36, 35, 25
+8, Wartortle, 2, Water, Water Pulse, 75, 44, false, 53, 53, 39
+9, Blastoise, 3, Water, Aqua Tail, 102, 64, true, 77, 80, 61
+10, Chespin, 1, Grass, Vine Whip, 60, 34, true, 36, 26, 23
+11, Quilladin, 2, Grass, Needle Arm, 76, 51, true, 62, 39, 39
+12, Chesnaught, 3, Grass, Seed Bomb, 109, 82, true, 92, 59, 51
+13, Fennekin, 1, Fire, Ember, 53, 34, false, 24, 33, 33
+14, Braixen, 2, Fire, Flame Charge, 75, 40, true, 39, 47, 48
+15, Delphox, 3, Fire, Flamethrower, 100, 87, false, 56, 77, 79
+16, Froakie, 1, Water, Bubble, 53, 34, false, 24, 26, 39
+17, Frogadier, 2, Water, Water Pulse, 72, 54, false, 36, 38, 63
+18, Greninja, 3, Water, Night Slash, 97, 73, true, 53, 56, 92
+19, Suicune, 4, Water, Bubble Beam, 151, 89, false, 113, 113, 84
+20, Entei, 4, Fire, Fire Fang, 165, 113, false, 84, 75, 99
+21, Celebi, 4, Grass, Leaf Storm, 166, 109, false, 109, 109, 109
+22, Fletchling, 1, Flying, Peck, 70, 37, false, 32, 29, 44
+23, Fletchinder, 2, Flying, Acrobatics, 95, 60, false, 46, 44, 68
+24, Talonflame, 3, Flying, Steel Wing, 122, 76, false, 67, 65, 115
+25, Pikipek, 1, Flying, Peck, 61, 50, false, 23, 23, 44
+26, Trumbeak, 2, Flying, Pluck, 85, 66, false, 41, 41, 59
+27, Toucannon, 3, Flying, Beak Blast, 119, 105, false, 68, 68, 55
+28, Tornadus, 4, Flying, Hurricane, 146, 121, false, 89, 100, 133
+29, Gible, 1, Ground, Tackle, 64, 40, true, 27, 27, 26
+30, Gabite, 2, Ground, Bulldoze, 83, 60, true, 45, 39, 55
+31, Garchomp, 3, Ground, Ground Claw, 126, 101, true, 75, 67, 80
+32, Sandile, 1, Ground, Mud Slap, 74, 27, false, 27, 27, 46
+33, Krokorok, 2, Ground, Tremor, 93, 67, true, 39, 39, 61
+34, Krookodile, 3, Ground, Earthquake, 137, 107, true, 75, 66, 85
+35, Zygarde, 4, Ground, Land's Wrath, 174, 109, true, 130, 103, 103
+36, Shinx, 1, Electric, Tackle, 65, 42, true, 24, 24, 31
+37, Luxio, 2, Electric, Spark, 87, 64, true, 39, 39, 47
+38, Luxray, 3, Electric, Thunder Fang, 116, 103, true, 69, 69, 62
+39, Grubbin, 1, Electric, Vice Grip, 60, 37, true, 28, 28, 28
+40, Charjabug, 2, Electric, Spark, 78, 57, true, 65, 53, 28
+41, Vikavolt, 3, Electric, X-Scissor, 106, 58, true, 73, 62, 37
+42, Raikou, 4, Electric, Thunder Fang, 141, 84, true, 75, 99, 113
