@@ -51,18 +51,10 @@ Pokemon-GaOle/
 
 4. Run the `Main.java` file.
 
-## Team Members
-
-- Your Name
-- Member 2
-- Member 3
-- Member 4
 
 ## Course Information
 
 **Course:** Object-Oriented Programming
-
-**Institution:** *(Your university name)*
 
 ## License
 
