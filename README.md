@@ -1,6 +1,6 @@
 # Pokémon Ga-Ole Console Application
 
-A console-based Java implementation of the Pokémon Ga-Ole arcade game developed as part of a university Object-Oriented Programming assignment.
+A console-based Java implementation of the Pokémon Ga-Ole arcade game developed as part of a Object-Oriented Programming assignment.
 
 ## Features
 
@@ -32,7 +32,7 @@ Pokemon-GaOle/
 
 ## Requirements
 
-- Java JDK 17 (or the version required by your course)
+- Java JDK 17 
 - Eclipse IDE (recommended)
 
 ## How to Run
