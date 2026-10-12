@@ -1,4 +1,4 @@
-# Pokémon Ga-Ole (Java)
+# Pokémon Ga-Ole Console Application
 
 A console-based Java implementation of the Pokémon Ga-Ole arcade game developed as part of a university Object-Oriented Programming assignment.
 
