@@ -2,8 +2,6 @@
 
 A turn-based, console version of the Pokémon Ga-Ole arcade game, written in plain Java with no external libraries. You pick two Pokémon, fight three wild ones, dodge their attacks in a timed quick-time event, and try to catch what you beat with a blind-picked Poké Ball. Progress and a top-5 leaderboard are saved to disk.
 
-It's a small codebase (~1,400 lines), and I built it to practise structuring a program around clear responsibilities rather than one big `main`.
-
 ## Running it
 
 Requires JDK 17+ (the code uses text blocks). Run from the project root, since data files are read from `src/data/`.
